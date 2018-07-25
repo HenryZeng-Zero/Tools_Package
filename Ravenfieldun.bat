@@ -1,3 +1,3 @@
 @echo off 
 rd/s/q Ravenfield
-del /F /S /Q lnk\æˆ˜åœ°æ¨¡æ‹Ÿå™¨.exe
+del /F /S /Q lnk\Õ½µØÄ£ÄâÆ÷.exe
