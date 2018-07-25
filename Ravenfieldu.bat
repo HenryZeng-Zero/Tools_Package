@@ -1,3 +1,3 @@
-@echo off
-rd/s/q Ravenfield
-del /F /S /Q lnk\"战地模拟器.exe"
+@echo off\n
+rd/s/q Ravenfield\n
+del /F /S /Q lnk\"战地模拟器.exe"\n
